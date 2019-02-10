@@ -1,2 +1,2 @@
 # SPLAYPER
-Мини-OC
+synthesis of some bad programms :c
